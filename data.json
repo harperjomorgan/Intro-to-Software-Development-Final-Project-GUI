@@ -1,0 +1,54 @@
+{
+    "question": [
+        "Q1. Which keyword allows us to load a module in Python? ",
+        "Q2. Which one from the following objects in Python is immutable?",
+        "Q3. Give the output of the following code: <pre code = 'Python>a = 'Python Quiz' print (a[2:5]) </pre>",
+        "Q4. Which function can add elements to the end of a list?",
+        "Q5. Give the output of the following code: for i in range(0,10,3): print(i)"
+    ],
+
+    "answer":   [
+        1,
+        2,
+        1,
+        3,
+        2
+    ],
+
+    "options":  [
+    [    "Import",
+        "Library",
+        "Load",
+        "None of the above"
+    ],
+    [ 
+        "Lists",
+        "Tuple",
+        "Set(s)",
+        "None of the above"
+    ],
+
+    [
+        "ytho",
+        "thon",
+        "tho",
+        "None of the above"
+    ],
+
+    [
+        "add()",
+        "insert()",
+        "append()",
+        "None of the above"
+    ],
+
+
+    [
+        "1 4 7 10",
+        "0 3 6 9",
+        "1 3 5 7 9",
+        "None of the above"
+    ]
+
+]
+}
